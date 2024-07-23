@@ -1,0 +1,16 @@
+Feedback:
+Don’t need 2 Data lakes could be done with 1
+1 flow will not need 2
+Write back to Data Lake – can have a report via Lake House with automation
+Can consolidate with alert
+Break up alerts 
+•	State 1
+•	State 2 and so on
+Instead of scripts can call them microservice
+Do not need truck location GPS Data Lake. Would be live streaming location. 
+2nd Put step 8 with arrows
+(same database)/same as prior lake house
+Data modeling/reinforcement model
+Expected lifetime can be part of Lake House
+Schedule Database -> App with maintenance reminder and maintenance schedule. 
+
